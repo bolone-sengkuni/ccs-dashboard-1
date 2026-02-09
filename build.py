@@ -7,4 +7,4 @@ print(GITHUB_TOKEN)
 
 
 if __name__ == "__main__":
-    print("Building the project.s..")
+    print("Building the project.s..s")
